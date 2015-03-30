@@ -482,7 +482,7 @@ def cycleBooks (r):
     #
     # update stylesheet with imagefile name
     #
-    updateBookImageName(sr, IMAGENAME, justSave=True)
+    updateBookImageName(sr, "", justSave=True)
 
     #
     # update book strip click urls
